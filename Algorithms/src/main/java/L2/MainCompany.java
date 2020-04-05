@@ -25,7 +25,6 @@ public class MainCompany{
             return;
         }
         fill(n - 1);
-        for(int i = 0; i < companies)
     }
 }
 
