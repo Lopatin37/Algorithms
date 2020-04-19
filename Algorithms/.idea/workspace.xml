@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d33b4155-4b77-4ebb-b378-e283ae6e91c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/L4/MyLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L4/MyLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/L3/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/L3/ReverseString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
       <recent name="C:\Users\Александр\Desktop\GeekBrains\Algorithms\Algorithms\src\main\java\L4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MyArrApp">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Knapsack (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L5.Knapsack" />
       <module name="Algorithms" />
@@ -62,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L4.Game.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L6.Main" />
       <module name="Algorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="L4.Game.*" />
+          <option name="PATTERN" value="L6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyArrApp" />
         <item itemvalue="Application.Knapsack (1)" />
         <item itemvalue="Application.Knapsack" />
         <item itemvalue="Application.Recursion" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -145,26 +143,30 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="484" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1586969235427" />
+    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587317732993">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1587317732993" />
     <state x="514" y="114" key="FileChooserDialogImpl" timestamp="1586892363528">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="514" y="114" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586892363528" />
-    <state width="1359" height="196" key="GridCell.Tab.0.bottom" timestamp="1586969788808">
+    <state width="1359" height="196" key="GridCell.Tab.0.bottom" timestamp="1587322819973">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586969788808" />
-    <state width="1359" height="196" key="GridCell.Tab.0.center" timestamp="1586969788808">
+    <state width="1359" height="196" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
+    <state width="1359" height="196" key="GridCell.Tab.0.center" timestamp="1587322819973">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1586969788808" />
-    <state width="1359" height="196" key="GridCell.Tab.0.left" timestamp="1586969788808">
+    <state width="1359" height="196" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
+    <state width="1359" height="196" key="GridCell.Tab.0.left" timestamp="1587322819973">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1586969788808" />
-    <state width="1359" height="196" key="GridCell.Tab.0.right" timestamp="1586969788808">
+    <state width="1359" height="196" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
+    <state width="1359" height="196" key="GridCell.Tab.0.right" timestamp="1587322819973">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1586969788808" />
+    <state width="1359" height="196" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
     <state width="1359" height="231" key="GridCell.Tab.1.bottom" timestamp="1586377935228">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
