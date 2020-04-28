@@ -39,7 +39,20 @@
       <recent name="C:\Users\Александр\Desktop\GeekBrains\Algorithms\Algorithms\src\main\java\L4" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.GraphMain">
+    <configuration name="GraphMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="L7.GraphMain" />
+      <module name="Algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="L7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Knapsack (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="L5.Knapsack" />
       <module name="Algorithms" />
@@ -86,26 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="L5.Recursion" />
-      <module name="Algorithms" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="L5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GraphMain" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MyArrApp" />
         <item itemvalue="Application.Knapsack (1)" />
         <item itemvalue="Application.Knapsack" />
-        <item itemvalue="Application.Recursion" />
       </list>
     </recent_temporary>
   </component>
@@ -143,53 +143,64 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="484" y="72" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728@0.0.1360.728" timestamp="1586969235427" />
-    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587317732993">
+    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587895792991">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1587317732993" />
+    <state x="409" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1587895792991" />
     <state x="514" y="114" key="FileChooserDialogImpl" timestamp="1586892363528">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="514" y="114" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1586892363528" />
-    <state width="1359" height="196" key="GridCell.Tab.0.bottom" timestamp="1587322819973">
+    <state width="1359" height="196" key="GridCell.Tab.0.bottom" timestamp="1587901024825">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
-    <state width="1359" height="196" key="GridCell.Tab.0.center" timestamp="1587322819973">
+    <state width="1359" height="196" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587901024825" />
+    <state width="1359" height="196" key="GridCell.Tab.0.center" timestamp="1587901024824">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
-    <state width="1359" height="196" key="GridCell.Tab.0.left" timestamp="1587322819973">
+    <state width="1359" height="196" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1587901024824" />
+    <state width="1359" height="196" key="GridCell.Tab.0.left" timestamp="1587901024824">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
-    <state width="1359" height="196" key="GridCell.Tab.0.right" timestamp="1587322819973">
+    <state width="1359" height="196" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1587901024824" />
+    <state width="1359" height="196" key="GridCell.Tab.0.right" timestamp="1587901024825">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="196" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587322819973" />
-    <state width="1359" height="231" key="GridCell.Tab.1.bottom" timestamp="1586377935228">
+    <state width="1359" height="196" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1587901024825" />
+    <state width="1359" height="231" key="GridCell.Tab.1.bottom" timestamp="1587900647425">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="231" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1586377935228" />
-    <state width="1359" height="231" key="GridCell.Tab.1.center" timestamp="1586377935228">
+    <state width="1359" height="231" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1587900647425" />
+    <state width="1359" height="231" key="GridCell.Tab.1.center" timestamp="1587900647425">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="231" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1586377935228" />
-    <state width="1359" height="231" key="GridCell.Tab.1.left" timestamp="1586377935228">
+    <state width="1359" height="231" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1587900647425" />
+    <state width="1359" height="231" key="GridCell.Tab.1.left" timestamp="1587900647425">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="231" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1586377935228" />
-    <state width="1359" height="231" key="GridCell.Tab.1.right" timestamp="1586377935228">
+    <state width="1359" height="231" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1587900647425" />
+    <state width="1359" height="231" key="GridCell.Tab.1.right" timestamp="1587900647425">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state width="1359" height="231" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1586377935228" />
-    <state x="395" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1586705688796">
+    <state width="1359" height="231" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1587900647425" />
+    <state x="395" y="182" key="com.intellij.ide.util.TipDialog" timestamp="1587890671856">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
-    <state x="395" y="182" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1586705688796" />
+    <state x="395" y="182" key="com.intellij.ide.util.TipDialog/0.0.1360.728@0.0.1360.728" timestamp="1587890671856" />
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1586013846757">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1586013846757" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/L7/Graph.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
